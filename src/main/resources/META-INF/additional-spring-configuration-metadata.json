@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "platform.github.org",
+      "type": "java.lang.String",
+      "description": "Github organization's name."
+    },
+    {
+      "name": "platform.github.accessKey",
+      "type": "java.lang.String",
+      "description": "Github access key."
+    }
+  ]
+}
